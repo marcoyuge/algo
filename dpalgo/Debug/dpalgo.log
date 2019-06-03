@@ -1,0 +1,3 @@
+﻿  dpalgo.cpp
+C:\program1\algo\dpalgo\dpalgo\dpalgo.cpp(12,1): warning C4326:  “main”的返回类型应为“int”而非“void”
+  dpalgo.vcxproj -> C:\program1\algo\dpalgo\Debug\dpalgo.exe
